@@ -1,2 +1,2 @@
 # Lab6
-Using CSS in a separate file :)
+This lab is going to showcase how to use CSS in a separate file.
